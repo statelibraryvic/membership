@@ -1,0 +1,910 @@
+/* screen - email-membership-donation_receipt-cultural */
+
+.arial-black-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+}
+.arial-bold-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-16px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-24px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-onyx-10px {
+  color: var(--onyx);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-normal-black-11px {
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 11px;
+}
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membership-donationreceipt-cultural {
+  background-color: var(--white);
+  height: 1554px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.email-membership-donationreceipt-cultural .about-slvm-ip-contact-iPe1yZ {
+  background-color: transparent;
+  height: 53px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 152px;
+}
+.email-membership-donationreceipt-cultural .amount-charged-obcyQx {
+  background-color: transparent;
+  bottom: calc(38.44% - 11px);
+  height: 29px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 197px;
+}
+.email-membership-donationreceipt-cultural .body-text-C61RwL {
+  background-color: transparent;
+  height: 133px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 509px;
+  width: 317px;
+}
+.email-membership-donationreceipt-cultural .c-img-39vRy8 {
+  background-color: transparent;
+  height: calc(100.00% - 90px);
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .copyright--t-reserved-iPe1yZ {
+  background-color: transparent;
+  bottom: calc(48.32% - 8px);
+  height: 17px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  width: 218px;
+}
+.email-membership-donationreceipt-cultural .cta-conv-socials-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: calc(24.17% - 18px);
+  position: absolute;
+  top: calc(38.41% - 6px);
+  width: 75px;
+}
+.email-membership-donationreceipt-cultural .cultural-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(40.00% - 7px);
+  width: 64px;
+}
+.email-membership-donationreceipt-cultural .cultural-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membership-donationreceipt-cultural .cultural-header-C61RwL {
+  background-color: transparent;
+  height: 411px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.email-membership-donationreceipt-cultural .cultural-img-9xRAXp {
+  background-color: transparent;
+  height: 163.24%;
+  left: -4.00%;
+  position: absolute;
+  top: -60.75%;
+  width: 113.83%;
+}
+.email-membership-donationreceipt-cultural .cultural-m-on-receipt-Bw4mAW {
+  background-color: transparent;
+  height: calc(100.00% - 20px);
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: right;
+  top: 13px;
+  white-space: nowrap;
+  width: calc(100.00% - 21px);
+}
+.email-membership-donationreceipt-cultural .cv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 34px;
+  height: 51px;
+  position: absolute;
+  right: 38px;
+  width: 159px;
+}
+.email-membership-donationreceipt-cultural .exclusion-497-PuhkOc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .exclusion-498-ZNyEu8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .exclusion-499-xxBtjs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .exclusion-500-VwPZHi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .exclusion-501-fdzpl6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .follow-us-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.72% - 6px);
+  white-space: nowrap;
+  width: 92px;
+}
+.email-membership-donationreceipt-cultural .footer-C61RwL {
+  background-color: transparent;
+  height: 344px;
+  left: 0px;
+  position: absolute;
+  top: 1212px;
+  width: 600px;
+}
+.email-membership-donationreceipt-cultural .group-5-obcyQx {
+  background-color: transparent;
+  bottom: 32px;
+  height: 25px;
+  left: 35px;
+  position: absolute;
+  width: 88px;
+}
+.email-membership-donationreceipt-cultural .group-64-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/twitter@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 3px);
+  left: calc(43.10% - 7px);
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+.email-membership-donationreceipt-cultural .group-65-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/instagram@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.email-membership-donationreceipt-cultural .group-67-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/facebook@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.email-membership-donationreceipt-cultural .header-tex-al-receipt-C61RwL {
+  background-color: var(--white);
+  height: 90px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.email-membership-donationreceipt-cultural .image-19-LW83yz {
+  background-color: transparent;
+  height: calc(100.00% + 870px);
+  left: -36px;
+  position: absolute;
+  top: -400px;
+  width: calc(100.00% + 567px);
+}
+.email-membership-donationreceipt-cultural .label-EUbJpP {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 71px;
+}
+.email-membership-donationreceipt-cultural .label-EUbJpP::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .label-S6HV2H {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 470px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: 60px;
+}
+.email-membership-donationreceipt-cultural .label-S6HV2H::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .label-eEATiP {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 161px;
+}
+.email-membership-donationreceipt-cultural .label-eEATiP::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .label-vB4Rul {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 479px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: 51px;
+}
+.email-membership-donationreceipt-cultural .label-vB4Rul::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .label-vx3sg4 {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 471px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: 59px;
+}
+.email-membership-donationreceipt-cultural .label-vx3sg4::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .light-butt-ndary-icon-KGwi6q {
+  background-color: var(--endeavour);
+  border-radius: 24px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.email-membership-donationreceipt-cultural .light-field-default-MP7bVz {
+  background-color: transparent;
+  bottom: calc(32.85% - 21px);
+  height: 62px;
+  left: 36px;
+  position: absolute;
+  width: calc(100.00% - 70px);
+}
+.email-membership-donationreceipt-cultural .light-field-default-gp2DP2 {
+  background-color: transparent;
+  height: 32px;
+  left: 35px;
+  position: absolute;
+  top: calc(45.30% - 14px);
+  width: calc(100.00% - 70px);
+}
+.email-membership-donationreceipt-cultural .light-field-default-obcyQx {
+  background-color: transparent;
+  height: 32px;
+  left: 35px;
+  position: absolute;
+  top: calc(31.75% - 10px);
+  width: calc(100.00% - 70px);
+}
+.email-membership-donationreceipt-cultural .line-13-EUbJpP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .line-13-S6HV2H {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .line-13-eEATiP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .mask-4joxuy {
+  background-color: var(--endeavour);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .mask-BdZdgq {
+  background-color: var(--endeavour);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .mask-group-31-obcyQx {
+  background-color: transparent;
+  bottom: calc(32.95% - 9px);
+  height: 26px;
+  left: 35px;
+  position: absolute;
+  width: 34px;
+}
+.email-membership-donationreceipt-cultural .mask-group-51-BdZdgq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .member-number-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.00% - 3px);
+  width: 92px;
+}
+.email-membership-donationreceipt-cultural .member-since-O4i9ae {
+  background-color: transparent;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-membership-donationreceipt-cultural .member-type-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.00% - 7px);
+  width: 92px;
+}
+.email-membership-donationreceipt-cultural .memberdetails-C61RwL {
+  background-color: var(--desert-storm);
+  border-radius: 5px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 117px;
+  left: 401px;
+  position: absolute;
+  top: 440px;
+  width: 173px;
+}
+.email-membership-donationreceipt-cultural .path-1894-iPe1yZ {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .path-1895-iPe1yZ {
+  background-color: transparent;
+  bottom: 36.44%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .path-5967-iPe1yZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .path-Ezmxos {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .path-PuhkOc {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+.email-membership-donationreceipt-cultural .path-VwPZHi {
+  background-color: transparent;
+  bottom: 23.07%;
+  height: 0px;
+  left: calc(40.00% - 1px);
+  position: absolute;
+  width: 2px;
+}
+.email-membership-donationreceipt-cultural .path-ZNyEu8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  width: 6px;
+}
+.email-membership-donationreceipt-cultural .path-fdzpl6 {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 2px;
+  top: 33.52%;
+  width: 1px;
+}
+.email-membership-donationreceipt-cultural .path-vl8U9b {
+  background-color: transparent;
+  bottom: 30.77%;
+  height: 0px;
+  left: calc(50.00% - 2px);
+  position: absolute;
+  width: 4px;
+}
+.email-membership-donationreceipt-cultural .path-xxBtjs {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+.email-membership-donationreceipt-cultural .print-receipt-KGwi6q {
+  background-color: transparent;
+  bottom: calc(38.64% - 5px);
+  color: var(--royal-blue);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12.5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+.email-membership-donationreceipt-cultural .receipt-C61RwL {
+  background-color: var(--desert-storm);
+  height: 548px;
+  left: 0px;
+  position: absolute;
+  top: 664px;
+  width: 600px;
+}
+.email-membership-donationreceipt-cultural .receipt-obcyQx {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 79px;
+  white-space: nowrap;
+  width: 78px;
+}
+.email-membership-donationreceipt-cultural .rectangle-100-obcyQx {
+  background-color: var(--white);
+  bottom: calc(41.28% - 136px);
+  height: 330px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 50px);
+}
+.email-membership-donationreceipt-cultural .rectangle-2-copy-5-iPe1yZ {
+  background-color: var(--white);
+  height: 220px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .rectangle-317-iPe1yZ {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-membership-donationreceipt-cultural .shape-KGwi6q {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+.email-membership-donationreceipt-cultural .slv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 36px;
+  height: 52px;
+  left: 35px;
+  position: absolute;
+  width: 208px;
+}
+.email-membership-donationreceipt-cultural .slv-logo-wht-gNKtJh {
+  background-color: transparent;
+  height: 40px;
+  left: 27px;
+  position: absolute;
+  top: calc(46.00% - 18px);
+  width: 158px;
+}
+.email-membership-donationreceipt-cultural .slv-logostudent-39vRy8 {
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.email-membership-donationreceipt-cultural .span0-gb8bgi {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membership-donationreceipt-cultural .span1-gb8bgi {
+  color: rgba(60,111,240,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membership-donationreceipt-cultural .span2-gb8bgi {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membership-donationreceipt-cultural .state-libr-ommunities-iPe1yZ {
+  background-color: transparent;
+  height: 153px;
+  letter-spacing: 0.00px;
+  line-height: 11.5px;
+  position: absolute;
+  right: 34px;
+  text-align: left;
+  top: 33px;
+  width: 267px;
+}
+.email-membership-donationreceipt-cultural .thank-you--s-donation-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 442px;
+  width: 317px;
+}
+.email-membership-donationreceipt-cultural .total-obcyQx {
+  background-color: transparent;
+  height: 29px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 64px;
+}
+.email-membership-donationreceipt-cultural .valid-to-O4i9ae {
+  background-color: transparent;
+  bottom: 13px;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-membership-donationreceipt-cultural .visit-the--nformation-obcyQx {
+  background-color: transparent;
+  bottom: calc(23.27% - 3px);
+  height: 14px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 12.5px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 278px;
+}
+.email-membership-donationreceipt-cultural .x000012345-obcyQx {
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 34px;
+  text-align: right;
+  top: 79px;
+  white-space: nowrap;
+  width: 92px;
+}
+.email-membership-donationreceipt-cultural .x000012345-obcyQx::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .x0012345-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(17.00% - 3px);
+  width: 64px;
+}
+.email-membership-donationreceipt-cultural .x0012345-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membership-donationreceipt-cultural .x09092021-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-membership-donationreceipt-cultural .x09092021-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membership-donationreceipt-cultural .x09092022-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: 13px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-membership-donationreceipt-cultural .x09092022-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membership-donationreceipt-cultural .x14400-obcyQx {
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 34px;
+  text-align: right;
+  top: 38px;
+  white-space: nowrap;
+  width: 89px;
+}
+.email-membership-donationreceipt-cultural .x14400-obcyQx::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membership-donationreceipt-cultural .x4321-obcyQx {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(32.42% - 6px);
+  height: 19px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 107px;
+}
+.email-membership-donationreceipt-cultural .x4321-obcyQx::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cerise: rgba(242,49,136,1.0);
+  --desert-storm: rgba(248,248,250,1.0);
+  --endeavour: rgba(0,86,182,1.0);
+  --glacier: rgba(125,176,225,1.0);
+  --gossamer: rgba(9,149,128,1.0);
+  --onyx: rgba(58,58,58,1.0);
+  --royal-blue: rgba(60,111,240,1.0);
+  --white: rgba(255,255,255,1.0);
+}

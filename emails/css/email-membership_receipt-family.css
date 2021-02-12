@@ -1,0 +1,858 @@
+/* screen - email-membership_receipt-family */
+
+.arial-black-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+}
+.arial-bold-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-16px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-24px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-onyx-10px {
+  color: var(--onyx);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-normal-black-11px {
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 11px;
+}
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membershipreceipt-family {
+  background-color: var(--white);
+  height: 1448px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.email-membershipreceipt-family .about-slvm-ip-contact-iPe1yZ {
+  background-color: transparent;
+  height: 53px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 152px;
+}
+.email-membershipreceipt-family .amount-charged-obcyQx {
+  background-color: transparent;
+  bottom: calc(46.02% - 13px);
+  height: 29px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 197px;
+}
+.email-membershipreceipt-family .body-text-C61RwL {
+  background-color: transparent;
+  height: 119px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 489px;
+  width: 317px;
+}
+.email-membershipreceipt-family .copyright--t-reserved-iPe1yZ {
+  background-color: transparent;
+  bottom: calc(48.32% - 8px);
+  height: 17px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  width: 218px;
+}
+.email-membershipreceipt-family .cta-conv-socials-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: calc(24.17% - 18px);
+  position: absolute;
+  top: calc(38.41% - 6px);
+  width: 75px;
+}
+.email-membershipreceipt-family .cv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 34px;
+  height: 51px;
+  position: absolute;
+  right: 38px;
+  width: 159px;
+}
+.email-membershipreceipt-family .exclusion-497-PuhkOc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .exclusion-498-ZNyEu8 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .exclusion-499-xxBtjs {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .exclusion-500-VwPZHi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .exclusion-501-fdzpl6 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .f-img-fS9vgc {
+  background-color: transparent;
+  height: calc(100.00% - 90px);
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.email-membershipreceipt-family .family-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(40.00% - 7px);
+  width: 64px;
+}
+.email-membershipreceipt-family .family-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membershipreceipt-family .family-header-C61RwL {
+  background-color: transparent;
+  height: 411px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.email-membershipreceipt-family .family-img-Rik8Ey {
+  background-color: transparent;
+  height: 152.02%;
+  left: -5.17%;
+  position: absolute;
+  top: -23.36%;
+  width: 110.33%;
+}
+.email-membershipreceipt-family .familymemb-ip-receipt-Bw4mAW {
+  background-color: transparent;
+  height: calc(100.00% - 20px);
+  left: 31px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: right;
+  top: 13px;
+  white-space: nowrap;
+  width: calc(100.00% - 50px);
+}
+.email-membershipreceipt-family .follow-us-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.72% - 6px);
+  white-space: nowrap;
+  width: 92px;
+}
+.email-membershipreceipt-family .footer-C61RwL {
+  background-color: transparent;
+  height: 344px;
+  left: 0px;
+  position: absolute;
+  top: 1104px;
+  width: 600px;
+}
+.email-membershipreceipt-family .group-5-obcyQx {
+  background-color: transparent;
+  bottom: 36px;
+  height: 25px;
+  left: 35px;
+  position: absolute;
+  width: 88px;
+}
+.email-membershipreceipt-family .group-64-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/twitter@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 3px);
+  left: calc(43.10% - 7px);
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+.email-membershipreceipt-family .group-65-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/instagram@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.email-membershipreceipt-family .group-67-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/facebook-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.email-membershipreceipt-family .header-tex-al-receipt-C61RwL {
+  background-color: var(--white);
+  height: 90px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.email-membershipreceipt-family .image-19-LW83yz {
+  background-color: transparent;
+  height: calc(100.00% + 870px);
+  left: -36px;
+  position: absolute;
+  top: -400px;
+  width: calc(100.00% + 567px);
+}
+.email-membershipreceipt-family .label-EUbJpP {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 478px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: 51px;
+}
+.email-membershipreceipt-family .label-EUbJpP::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membershipreceipt-family .label-eEATiP {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 151px;
+}
+.email-membershipreceipt-family .label-eEATiP::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membershipreceipt-family .label-vx3sg4 {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 479px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: right;
+  top: 0px;
+  white-space: nowrap;
+  width: 51px;
+}
+.email-membershipreceipt-family .label-vx3sg4::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membershipreceipt-family .light-butt-ndary-icon-KGwi6q {
+  background-color: var(--cerise);
+  border-radius: 24px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.email-membershipreceipt-family .light-field-default-gp2DP2 {
+  background-color: transparent;
+  bottom: calc(40.04% - 25px);
+  height: 62px;
+  left: 36px;
+  position: absolute;
+  width: calc(100.00% - 70px);
+}
+.email-membershipreceipt-family .light-field-default-obcyQx {
+  background-color: transparent;
+  height: 31px;
+  left: 35px;
+  position: absolute;
+  top: calc(37.22% - 12px);
+  width: calc(100.00% - 69px);
+}
+.email-membershipreceipt-family .line-13-EUbJpP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-membershipreceipt-family .line-13-eEATiP {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 1px);
+}
+.email-membershipreceipt-family .mask-GzrTsY {
+  background-color: var(--cerise);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .mask-group-31-obcyQx {
+  background-color: transparent;
+  bottom: calc(39.46% - 10px);
+  height: 26px;
+  left: 35px;
+  position: absolute;
+  width: 34px;
+}
+.email-membershipreceipt-family .mask-group-50-xTHD7P {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .mask-xTHD7P {
+  background-color: var(--cerise);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .member-number-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.00% - 3px);
+  width: 92px;
+}
+.email-membershipreceipt-family .member-since-O4i9ae {
+  background-color: transparent;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-membershipreceipt-family .member-type-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.00% - 7px);
+  width: 92px;
+}
+.email-membershipreceipt-family .memberdetails-C61RwL {
+  background-color: var(--desert-storm);
+  border-radius: 5px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 117px;
+  left: 401px;
+  position: absolute;
+  top: 440px;
+  width: 173px;
+}
+.email-membershipreceipt-family .path-1894-iPe1yZ {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .path-1895-iPe1yZ {
+  background-color: transparent;
+  bottom: 36.44%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-membershipreceipt-family .path-5967-iPe1yZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-membershipreceipt-family .path-Ezmxos {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.email-membershipreceipt-family .path-PuhkOc {
+  background-color: transparent;
+  height: 2px;
+  left: 3px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 6px);
+}
+.email-membershipreceipt-family .path-VwPZHi {
+  background-color: transparent;
+  bottom: 21.74%;
+  height: 1px;
+  left: calc(42.10% - 1px);
+  position: absolute;
+  width: 2px;
+}
+.email-membershipreceipt-family .path-ZNyEu8 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: 3px;
+  position: absolute;
+  width: calc(100.00% - 6px);
+}
+.email-membershipreceipt-family .path-fdzpl6 {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 2px;
+  top: 34.78%;
+  width: 1px;
+}
+.email-membershipreceipt-family .path-vl8U9b {
+  background-color: transparent;
+  bottom: 30.44%;
+  height: 1px;
+  left: calc(50.00% - 2px);
+  position: absolute;
+  width: 4px;
+}
+.email-membershipreceipt-family .path-xxBtjs {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: calc(46.67% - 2px);
+  width: calc(100.00% - 2px);
+}
+.email-membershipreceipt-family .print-receipt-KGwi6q {
+  background-color: transparent;
+  bottom: calc(38.64% - 5px);
+  color: var(--royal-blue);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12.5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 61px;
+}
+.email-membershipreceipt-family .receipt-C61RwL {
+  background-color: var(--desert-storm);
+  height: 472px;
+  left: 0px;
+  position: absolute;
+  top: 632px;
+  width: 600px;
+}
+.email-membershipreceipt-family .receipt-obcyQx {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.56% - 4px);
+  white-space: nowrap;
+  width: 78px;
+}
+.email-membershipreceipt-family .rectangle-100-obcyQx {
+  background-color: var(--white);
+  bottom: calc(41.82% - 105px);
+  height: 252px;
+  left: 25px;
+  position: absolute;
+  width: calc(100.00% - 50px);
+}
+.email-membershipreceipt-family .rectangle-2-copy-5-iPe1yZ {
+  background-color: var(--white);
+  height: 220px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-membershipreceipt-family .rectangle-317-iPe1yZ {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-membershipreceipt-family .shape-KGwi6q {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+.email-membershipreceipt-family .slv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 36px;
+  height: 52px;
+  left: 35px;
+  position: absolute;
+  width: 208px;
+}
+.email-membershipreceipt-family .slv-logo-wht-qYVJHE {
+  background-color: transparent;
+  height: 40px;
+  left: 27px;
+  position: absolute;
+  top: calc(46.00% - 18px);
+  width: 158px;
+}
+.email-membershipreceipt-family .slv-logostudent-fS9vgc {
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.email-membershipreceipt-family .span0-gb8bgi {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membershipreceipt-family .span1-gb8bgi {
+  color: rgba(60,111,240,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membershipreceipt-family .span2-gb8bgi {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-membershipreceipt-family .state-libr-ommunities-iPe1yZ {
+  background-color: transparent;
+  height: 153px;
+  letter-spacing: 0.00px;
+  line-height: 11.5px;
+  position: absolute;
+  right: 34px;
+  text-align: left;
+  top: 33px;
+  width: 267px;
+}
+.email-membershipreceipt-family .thank-you--ily-member-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 442px;
+  width: 317px;
+}
+.email-membershipreceipt-family .total-obcyQx {
+  background-color: transparent;
+  height: 29px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  white-space: nowrap;
+  width: 64px;
+}
+.email-membershipreceipt-family .valid-to-O4i9ae {
+  background-color: transparent;
+  bottom: 13px;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-membershipreceipt-family .visit-the--nformation-obcyQx {
+  background-color: transparent;
+  bottom: calc(28.00% - 4px);
+  height: 14px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 12.5px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 278px;
+}
+.email-membershipreceipt-family .x000012345-obcyQx {
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  height: 22px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 34px;
+  text-align: right;
+  top: calc(17.56% - 4px);
+  white-space: nowrap;
+  width: 92px;
+}
+.email-membershipreceipt-family .x000012345-obcyQx::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membershipreceipt-family .x0012345-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(17.00% - 3px);
+  width: 64px;
+}
+.email-membershipreceipt-family .x0012345-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membershipreceipt-family .x09092021-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-membershipreceipt-family .x09092021-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membershipreceipt-family .x09092022-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: 13px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-membershipreceipt-family .x09092022-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-membershipreceipt-family .x4321-obcyQx {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(38.83% - 7px);
+  height: 19px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 107px;
+}
+.email-membershipreceipt-family .x4321-obcyQx::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-membershipreceipt-family .x9600-obcyQx {
+  background-color: transparent;
+  border: 0;
+  height: 29px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 34px;
+  text-align: right;
+  top: 38px;
+  white-space: nowrap;
+  width: 75px;
+}
+.email-membershipreceipt-family .x9600-obcyQx::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cerise: rgba(242,49,136,1.0);
+  --desert-storm: rgba(248,248,250,1.0);
+  --endeavour: rgba(0,86,182,1.0);
+  --glacier: rgba(125,176,225,1.0);
+  --gossamer: rgba(9,149,128,1.0);
+  --onyx: rgba(58,58,58,1.0);
+  --royal-blue: rgba(60,111,240,1.0);
+  --white: rgba(255,255,255,1.0);
+}

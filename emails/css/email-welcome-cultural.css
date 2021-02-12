@@ -1,0 +1,990 @@
+/* screen - email-welcome-cultural */
+
+.arial-black-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+}
+.arial-bold-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-16px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-24px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-onyx-10px {
+  color: var(--onyx);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-normal-black-11px {
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 11px;
+}
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-welcome-cultural {
+  background-color: var(--white);
+  height: 1724px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.email-welcome-cultural .about-slvm-ip-contact-iPe1yZ {
+  background-color: transparent;
+  height: 53px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 152px;
+}
+.email-welcome-cultural .apple-dl-student-avBvv6 {
+  background-color: var(--endeavour);
+  border-radius: 5px;
+  height: 40px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  top: 0px;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.email-welcome-cultural .apple-dl-student-avBvv6:hover {
+
+transform: translate(0, -2px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.email-welcome-cultural .benefits-C61RwL {
+  background-color: transparent;
+  height: 302px;
+  left: 35px;
+  position: absolute;
+  top: 927px;
+  width: 532px;
+}
+.email-welcome-cultural .body-text-2-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  height: 29px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 468px;
+  width: 317px;
+}
+.email-welcome-cultural .body-text-3-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 11px;
+  height: 246px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 505px;
+  width: 317px;
+}
+.email-welcome-cultural .body-text-C61RwL {
+  background-color: transparent;
+  height: 67px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 800px;
+  width: 317px;
+}
+.email-welcome-cultural .body-text-benefits-3dWUnz {
+  background-color: transparent;
+  height: 304px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% - 15px);
+}
+.email-welcome-cultural .body-text-benefits-C61RwL {
+  background-color: transparent;
+  height: 34px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 1259px;
+  width: 532px;
+}
+.email-welcome-cultural .btns-C61RwL {
+  background-color: transparent;
+  height: 95px;
+  left: 400px;
+  position: absolute;
+  top: 761px;
+  width: 173px;
+}
+.email-welcome-cultural .c-img-39vRy8 {
+  background-color: transparent;
+  height: calc(100.00% - 90px);
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.email-welcome-cultural .copyright--t-reserved-iPe1yZ {
+  background-color: transparent;
+  bottom: calc(48.32% - 8px);
+  height: 17px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  width: 218px;
+}
+.email-welcome-cultural .cta-conv-socials-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: calc(24.17% - 18px);
+  position: absolute;
+  top: calc(38.41% - 6px);
+  width: 75px;
+}
+.email-welcome-cultural .cultural-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: 38px;
+  width: 64px;
+}
+.email-welcome-cultural .cultural-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-welcome-cultural .cultural-header-C61RwL {
+  background-color: transparent;
+  height: 411px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.email-welcome-cultural .cultural-img-9xRAXp {
+  background-color: transparent;
+  height: 163.24%;
+  left: -4.00%;
+  position: absolute;
+  top: -60.75%;
+  width: 113.83%;
+}
+.email-welcome-cultural .cv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 34px;
+  height: 51px;
+  position: absolute;
+  right: 38px;
+  width: 159px;
+}
+.email-welcome-cultural .exclusion-497-FCGBAl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.email-welcome-cultural .exclusion-498-ZcLJ0z {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.email-welcome-cultural .exclusion-499-XRybJt {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.email-welcome-cultural .exclusion-500-Pu3Psy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.email-welcome-cultural .exclusion-501-lNyGzg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+.email-welcome-cultural .follow-us-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.72% - 6px);
+  white-space: nowrap;
+  width: 92px;
+}
+.email-welcome-cultural .footer-C61RwL {
+  background-color: transparent;
+  height: 344px;
+  left: 0px;
+  position: absolute;
+  top: 1374px;
+  width: 600px;
+}
+.email-welcome-cultural .google-dl-student-avBvv6 {
+  background-color: transparent;
+  background-image: url(../img/path-5959@1x.png);
+  background-size: 100% 100%;
+  bottom: 0px;
+  height: 41px;
+  left: 0px;
+  pointer-events: auto;
+  position: absolute;
+  transition: all 0.2s ease;
+  width: 100%;
+}
+.email-welcome-cultural .google-dl-student-avBvv6:hover {
+
+transform: translate(0, -2px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.email-welcome-cultural .group-5-C61RwL {
+  background-color: transparent;
+  height: 25px;
+  left: 35px;
+  position: absolute;
+  top: 1317px;
+  width: 83px;
+}
+.email-welcome-cultural .group-64-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/twitter@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 3px);
+  left: calc(43.10% - 7px);
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+.email-welcome-cultural .group-65-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/instagram@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.email-welcome-cultural .group-67-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/facebook@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.email-welcome-cultural .header-tex-al-welcome-C61RwL {
+  background-color: var(--white);
+  height: 90px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.email-welcome-cultural .hello-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 441px;
+  white-space: nowrap;
+  width: 43px;
+}
+.email-welcome-cultural .icon-andriod-eF45on {
+  background-color: transparent;
+  height: 23px;
+  left: 14px;
+  position: absolute;
+  top: calc(41.85% - 10px);
+  width: 21px;
+}
+.email-welcome-cultural .icon-apple-4NpXLy {
+  background-color: transparent;
+  height: 22px;
+  left: 16px;
+  position: absolute;
+  top: calc(44.52% - 10px);
+  width: 17px;
+}
+.email-welcome-cultural .light-butt-ndary-icon-iZjIT4 {
+  background-color: var(--endeavour);
+  border-radius: 24px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.email-welcome-cultural .mask-4joxuy {
+  background-color: var(--endeavour);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-welcome-cultural .mask-BdZdgq {
+  background-color: var(--endeavour);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-welcome-cultural .mask-group-51-BdZdgq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-welcome-cultural .member-number-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: 92px;
+}
+.email-welcome-cultural .member-since-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(22.88% - 4px);
+  width: 92px;
+}
+.email-welcome-cultural .member-type-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: 38px;
+  width: 92px;
+}
+.email-welcome-cultural .memberdetails-C61RwL {
+  background-color: var(--desert-storm);
+  border-radius: 5px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 288px;
+  left: 400px;
+  position: absolute;
+  top: 442px;
+  width: 173px;
+}
+.email-welcome-cultural .path-1879-GOjYpn {
+  background-color: transparent;
+  bottom: 0px;
+  height: 16px;
+  left: 4px;
+  position: absolute;
+  width: calc(100.00% - 8px);
+}
+.email-welcome-cultural .path-1880-GOjYpn {
+  background-color: transparent;
+  height: 6px;
+  left: 4px;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 8px);
+}
+.email-welcome-cultural .path-1881-GOjYpn {
+  background-color: transparent;
+  height: 8px;
+  position: absolute;
+  right: 0px;
+  top: calc(47.50% - 4px);
+  width: 3px;
+}
+.email-welcome-cultural .path-1882-GOjYpn {
+  background-color: transparent;
+  height: 8px;
+  left: 0px;
+  position: absolute;
+  top: calc(47.50% - 4px);
+  width: 3px;
+}
+.email-welcome-cultural .path-1891-UfTazL {
+  background-color: transparent;
+  height: calc(100.00% - 6px);
+  left: 0px;
+  position: absolute;
+  top: 6px;
+  width: 100%;
+}
+.email-welcome-cultural .path-1892-UfTazL {
+  background-color: transparent;
+  height: 5px;
+  position: absolute;
+  right: calc(33.90% - 2px);
+  top: 1px;
+  width: 5px;
+}
+.email-welcome-cultural .path-1894-iPe1yZ {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-welcome-cultural .path-1895-iPe1yZ {
+  background-color: transparent;
+  bottom: 36.44%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-welcome-cultural .path-3dWUnz {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.email-welcome-cultural .path-5965-4NpXLy {
+  background-color: transparent;
+  bottom: calc(45.48% - 5px);
+  height: 12px;
+  position: absolute;
+  right: 16px;
+  width: 101px;
+}
+.email-welcome-cultural .path-5966-eF45on {
+  background-color: transparent;
+  bottom: calc(47.35% - 6px);
+  height: 12px;
+  position: absolute;
+  right: 16px;
+  width: 101px;
+}
+.email-welcome-cultural .path-5967-iPe1yZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-welcome-cultural .path-7AIocP {
+  background-color: transparent;
+  bottom: 11px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .path-C5rbhx {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 41px;
+  width: 12px;
+}
+.email-welcome-cultural .path-EGNORR {
+  background-color: transparent;
+  bottom: 30.77%;
+  height: 0px;
+  left: calc(50.00% - 2px);
+  position: absolute;
+  width: 4px;
+}
+.email-welcome-cultural .path-EaQtzG {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-welcome-cultural .path-FCGBAl {
+  background-color: transparent;
+  height: 2px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  top: 1px;
+  width: 6px;
+}
+.email-welcome-cultural .path-IxeHpp {
+  background-color: transparent;
+  bottom: calc(31.16% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .path-Pu3Psy {
+  background-color: transparent;
+  bottom: 23.07%;
+  height: 0px;
+  left: calc(40.00% - 1px);
+  position: absolute;
+  width: 2px;
+}
+.email-welcome-cultural .path-VQJ8Cw {
+  background-color: transparent;
+  bottom: calc(38.01% - 4px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .path-WLGJ5l {
+  background-color: transparent;
+  bottom: calc(24.32% - 2px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .path-XRybJt {
+  background-color: transparent;
+  bottom: calc(50.00% - 2px);
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  width: calc(100.00% - 2px);
+}
+.email-welcome-cultural .path-XvLqLt {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 12px;
+}
+.email-welcome-cultural .path-ZcLJ0z {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  left: calc(50.00% - 3px);
+  position: absolute;
+  width: 6px;
+}
+.email-welcome-cultural .path-dxGhoV {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(20.89% - 2px);
+  width: 12px;
+}
+.email-welcome-cultural .path-iTQYbB {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(48.29% - 5px);
+  width: 12px;
+}
+.email-welcome-cultural .path-lBbbYQ {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(27.74% - 3px);
+  width: 12px;
+}
+.email-welcome-cultural .path-lNyGzg {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 2px;
+  top: 33.52%;
+  width: 1px;
+}
+.email-welcome-cultural .path-lkkGvr {
+  background-color: transparent;
+  bottom: calc(44.86% - 4px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .path-nbp01t {
+  background-color: transparent;
+  bottom: 31px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .path-qkqyuI {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.59% - 3px);
+  width: 12px;
+}
+.email-welcome-cultural .path-up23FX {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(41.44% - 4px);
+  width: 12px;
+}
+.email-welcome-cultural .path-x20xum {
+  background-color: transparent;
+  bottom: calc(17.47% - 2px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-welcome-cultural .print-email-iZjIT4 {
+  background-color: transparent;
+  bottom: calc(38.64% - 5px);
+  color: var(--royal-blue);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12.5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 54px;
+}
+.email-welcome-cultural .qrplaceholder-C61RwL {
+  background-color: transparent;
+  height: 151px;
+  left: 412px;
+  position: absolute;
+  top: 567px;
+  width: 151px;
+}
+.email-welcome-cultural .rectangle-2-copy-5-iPe1yZ {
+  background-color: var(--white);
+  height: 220px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-welcome-cultural .rectangle-317-iPe1yZ {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-welcome-cultural .shape-iZjIT4 {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+.email-welcome-cultural .slv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 36px;
+  height: 52px;
+  left: 35px;
+  position: absolute;
+  width: 208px;
+}
+.email-welcome-cultural .slv-logo-wht-gNKtJh {
+  background-color: transparent;
+  height: 40px;
+  left: 27px;
+  position: absolute;
+  top: calc(46.00% - 18px);
+  width: 158px;
+}
+.email-welcome-cultural .slv-logostudent-39vRy8 {
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.email-welcome-cultural .span0-6sEWQJ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-welcome-cultural .span0-gs8h2Q {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-welcome-cultural .span1-6sEWQJ {
+  color: rgba(60,111,240,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-welcome-cultural .span1-gs8h2Q {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 700;
+}
+.email-welcome-cultural .span2-6sEWQJ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-welcome-cultural .state-libr-ommunities-iPe1yZ {
+  background-color: transparent;
+  height: 153px;
+  letter-spacing: 0.00px;
+  line-height: 11.5px;
+  position: absolute;
+  right: 34px;
+  text-align: left;
+  top: 33px;
+  width: 267px;
+}
+.email-welcome-cultural .valid-to-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(31.37% - 5px);
+  width: 92px;
+}
+.email-welcome-cultural .welcomecul-ral-member-MBQHjy {
+  background-color: transparent;
+  height: calc(100.00% - 20px);
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  right: 19px;
+  text-align: right;
+  top: 13px;
+  white-space: nowrap;
+  width: 283px;
+}
+.email-welcome-cultural .x-name-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 441px;
+  white-space: nowrap;
+  width: 273px;
+}
+.email-welcome-cultural .x-name-C61RwL::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-welcome-cultural .x0012345-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: 15px;
+  width: 64px;
+}
+.email-welcome-cultural .x0012345-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-welcome-cultural .x09092021-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(22.88% - 4px);
+  width: 64px;
+}
+.email-welcome-cultural .x09092021-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-welcome-cultural .x09092022-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(31.37% - 5px);
+  width: 64px;
+}
+.email-welcome-cultural .x09092022-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-welcome-cultural .your-cultu-p-benefits-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 896px;
+  white-space: nowrap;
+  width: auto;
+}
+.email-welcome-cultural .your-digit-rship-card-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 770px;
+  white-space: nowrap;
+  width: auto;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cerise: rgba(242,49,136,1.0);
+  --desert-storm: rgba(248,248,250,1.0);
+  --endeavour: rgba(0,86,182,1.0);
+  --glacier: rgba(125,176,225,1.0);
+  --gossamer: rgba(9,149,128,1.0);
+  --onyx: rgba(58,58,58,1.0);
+  --royal-blue: rgba(60,111,240,1.0);
+  --white: rgba(255,255,255,1.0);
+}

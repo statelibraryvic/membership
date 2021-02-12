@@ -1,0 +1,855 @@
+/* screen - email-renewal-24hr-fol */
+
+.arial-black-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+}
+.arial-bold-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-16px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-24px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-onyx-10px {
+  color: var(--onyx);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-normal-black-11px {
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 11px;
+}
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-renewal-24hr-fol {
+  background-color: var(--white);
+  height: 1499px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.email-renewal-24hr-fol .about-slvm-ip-contact-7ufBxO {
+  background-color: transparent;
+  height: 53px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 152px;
+}
+.email-renewal-24hr-fol .benefits-DxsOZ5 {
+  background-color: transparent;
+  height: 302px;
+  left: 35px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 70px);
+}
+.email-renewal-24hr-fol .body-text-2-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 468px;
+  width: 317px;
+}
+.email-renewal-24hr-fol .body-text-3-C61RwL {
+  background-color: transparent;
+  height: 138px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 489px;
+  width: 317px;
+}
+.email-renewal-24hr-fol .body-text-benefits-DxsOZ5 {
+  background-color: transparent;
+  height: 34px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: calc(43.86% - 15px);
+  width: calc(100.00% - 68px);
+}
+.email-renewal-24hr-fol .body-text-benefits-tl5t1w {
+  background-color: transparent;
+  height: 304px;
+  left: 17px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: -4px;
+  width: calc(100.00% - 15px);
+}
+.email-renewal-24hr-fol .btn-C61RwL {
+  background-color: var(--endeavour);
+  border-radius: 5px;
+  height: 40px;
+  left: 401px;
+  pointer-events: auto;
+  position: absolute;
+  top: 586px;
+  transition: all 0.2s ease;
+  width: 173px;
+}
+.email-renewal-24hr-fol .btn-C61RwL:hover {
+
+transform: translate(0, -2px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.email-renewal-24hr-fol .c-img-39vRy8 {
+  background-color: transparent;
+  height: calc(100.00% - 90px);
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .copyright--t-reserved-7ufBxO {
+  background-color: transparent;
+  bottom: calc(48.32% - 8px);
+  height: 17px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  width: 218px;
+}
+.email-renewal-24hr-fol .cta-conv-socials-7ufBxO {
+  background-color: transparent;
+  height: 16px;
+  left: calc(24.17% - 18px);
+  position: absolute;
+  top: calc(38.41% - 6px);
+  width: 75px;
+}
+.email-renewal-24hr-fol .cultural-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(40.00% - 7px);
+  width: 64px;
+}
+.email-renewal-24hr-fol .cultural-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-24hr-fol .cultural-header-C61RwL {
+  background-color: transparent;
+  height: 411px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.email-renewal-24hr-fol .cultural-img-9xRAXp {
+  background-color: transparent;
+  height: 163.24%;
+  left: -4.00%;
+  position: absolute;
+  top: -60.75%;
+  width: 113.83%;
+}
+.email-renewal-24hr-fol .cv-logo-blk-7ufBxO {
+  background-color: transparent;
+  bottom: 34px;
+  height: 51px;
+  position: absolute;
+  right: 38px;
+  width: 159px;
+}
+.email-renewal-24hr-fol .exclusion-497-T28Lej {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .exclusion-498-cLyfcc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .exclusion-499-0bBBgg {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .exclusion-500-AkbBxl {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .exclusion-501-Gx1fEf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .fol-cultur-wal-notice-MBQHjy {
+  background-color: transparent;
+  height: calc(100.00% - 20px);
+  left: 6px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: right;
+  top: 13px;
+  white-space: nowrap;
+  width: calc(100.00% - 25px);
+}
+.email-renewal-24hr-fol .follow-us-7ufBxO {
+  background-color: transparent;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.72% - 6px);
+  white-space: nowrap;
+  width: 92px;
+}
+.email-renewal-24hr-fol .footer-DxsOZ5 {
+  background-color: transparent;
+  bottom: 0px;
+  height: 344px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-24hr-fol .group-393-C61RwL {
+  background-color: transparent;
+  height: 791px;
+  left: 0px;
+  position: absolute;
+  top: 692px;
+  width: 600px;
+}
+.email-renewal-24hr-fol .group-5-DxsOZ5 {
+  background-color: transparent;
+  bottom: calc(49.09% - 12px);
+  height: 25px;
+  left: 35px;
+  position: absolute;
+  width: 81px;
+}
+.email-renewal-24hr-fol .group-64-zbLZte {
+  background-color: transparent;
+  background-image: url(../img/twitter@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 3px);
+  left: calc(43.10% - 7px);
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+.email-renewal-24hr-fol .group-65-zbLZte {
+  background-color: transparent;
+  background-image: url(../img/instagram@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.email-renewal-24hr-fol .group-67-zbLZte {
+  background-color: transparent;
+  background-image: url(../img/facebook-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.email-renewal-24hr-fol .header-tex-al-welcome-C61RwL {
+  background-color: var(--white);
+  height: 90px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.email-renewal-24hr-fol .hi-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 441px;
+  white-space: nowrap;
+  width: 23px;
+}
+.email-renewal-24hr-fol .light-butt-ndary-icon-3ACzaD {
+  background-color: var(--endeavour);
+  border-radius: 24px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+.email-renewal-24hr-fol .mask-4joxuy {
+  background-color: var(--endeavour);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .mask-BdZdgq {
+  background-color: var(--endeavour);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .mask-group-51-BdZdgq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .member-number-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.00% - 3px);
+  width: 92px;
+}
+.email-renewal-24hr-fol .member-since-O4i9ae {
+  background-color: transparent;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-renewal-24hr-fol .member-type-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.00% - 7px);
+  width: 92px;
+}
+.email-renewal-24hr-fol .memberdetails-C61RwL {
+  background-color: var(--desert-storm);
+  border-radius: 5px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 117px;
+  left: 401px;
+  position: absolute;
+  top: 440px;
+  width: 173px;
+}
+.email-renewal-24hr-fol .path-0bBBgg {
+  background-color: transparent;
+  height: 5px;
+  left: 1px;
+  position: absolute;
+  top: calc(49.99% - 2px);
+  width: calc(100.00% - 2px);
+}
+.email-renewal-24hr-fol .path-1894-7ufBxO {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .path-1895-7ufBxO {
+  background-color: transparent;
+  bottom: 36.44%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-24hr-fol .path-38Nh7B {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 41px;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-5964-b4HSh9 {
+  background-color: transparent;
+  bottom: calc(47.73% - 4px);
+  height: 9px;
+  left: 16px;
+  position: absolute;
+  width: calc(100.00% - 31px);
+}
+.email-renewal-24hr-fol .path-5967-7ufBxO {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-24hr-fol .path-5BIBce {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(41.44% - 4px);
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-5sFlOt {
+  background-color: transparent;
+  bottom: calc(31.16% - 3px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-5xNPMg {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(48.29% - 5px);
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-AkbBxl {
+  background-color: transparent;
+  bottom: 23.08%;
+  height: 0px;
+  left: calc(40.00% - 1px);
+  position: absolute;
+  width: 2px;
+}
+.email-renewal-24hr-fol .path-D67P2L {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(27.74% - 3px);
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-G4IaTl {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 21px;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-GjMavL {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(20.89% - 2px);
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-Gx1fEf {
+  background-color: transparent;
+  height: 1px;
+  position: absolute;
+  right: 2px;
+  top: 33.52%;
+  width: 1px;
+}
+.email-renewal-24hr-fol .path-OFOBJK {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: calc(34.59% - 3px);
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-Rjjuj1 {
+  background-color: transparent;
+  bottom: 31px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-Sxxhoo {
+  background-color: transparent;
+  bottom: 11px;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-T28Lej {
+  background-color: transparent;
+  height: 2px;
+  position: absolute;
+  right: calc(50.00% - 3px);
+  top: 1px;
+  width: 6px;
+}
+.email-renewal-24hr-fol .path-TU8S1k {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .path-cLyfcc {
+  background-color: transparent;
+  bottom: 1px;
+  height: 4px;
+  position: absolute;
+  right: calc(50.00% - 3px);
+  width: 6px;
+}
+.email-renewal-24hr-fol .path-cibr4I {
+  background-color: transparent;
+  bottom: calc(24.32% - 2px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-nX7K25 {
+  background-color: transparent;
+  bottom: calc(38.01% - 4px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-p2i9e4 {
+  background-color: transparent;
+  bottom: 30.78%;
+  height: 0px;
+  position: absolute;
+  right: calc(50.00% - 2px);
+  width: 4px;
+}
+.email-renewal-24hr-fol .path-tl5t1w {
+  background-color: transparent;
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  top: 1px;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-uKRos4 {
+  background-color: transparent;
+  bottom: calc(44.86% - 4px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .path-xNuHHX {
+  background-color: transparent;
+  bottom: calc(17.47% - 2px);
+  height: 10px;
+  left: 0px;
+  position: absolute;
+  width: 12px;
+}
+.email-renewal-24hr-fol .print-email-3ACzaD {
+  background-color: transparent;
+  bottom: calc(38.64% - 5px);
+  color: var(--royal-blue);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+  height: 14px;
+  letter-spacing: 0.00px;
+  line-height: 12.5px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 54px;
+}
+.email-renewal-24hr-fol .rectangle-2-copy-5-7ufBxO {
+  background-color: var(--white);
+  height: 220px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-24hr-fol .rectangle-317-7ufBxO {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-24hr-fol .rewar-body-C61RwL {
+  background-color: transparent;
+  height: 23px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 658px;
+  width: 530px;
+}
+.email-renewal-24hr-fol .shape-3ACzaD {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: 6px;
+  position: absolute;
+  top: 6px;
+  width: 12px;
+}
+.email-renewal-24hr-fol .slv-logo-blk-7ufBxO {
+  background-color: transparent;
+  bottom: 36px;
+  height: 52px;
+  left: 35px;
+  position: absolute;
+  width: 208px;
+}
+.email-renewal-24hr-fol .slv-logo-wht-gNKtJh {
+  background-color: transparent;
+  height: 40px;
+  left: 27px;
+  position: absolute;
+  top: calc(46.00% - 18px);
+  width: 158px;
+}
+.email-renewal-24hr-fol .slv-logostudent-39vRy8 {
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.email-renewal-24hr-fol .span0-bmI5HZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-renewal-24hr-fol .span1-bmI5HZ {
+  color: rgba(60,111,240,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-renewal-24hr-fol .span2-bmI5HZ {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-renewal-24hr-fol .state-libr-ommunities-7ufBxO {
+  background-color: transparent;
+  height: 153px;
+  letter-spacing: 0.00px;
+  line-height: 11.5px;
+  position: absolute;
+  right: 34px;
+  text-align: left;
+  top: 33px;
+  width: 267px;
+}
+.email-renewal-24hr-fol .valid-to-O4i9ae {
+  background-color: transparent;
+  bottom: 13px;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-renewal-24hr-fol .x-name-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 441px;
+  white-space: nowrap;
+  width: 296px;
+}
+.email-renewal-24hr-fol .x-name-C61RwL::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-renewal-24hr-fol .x0012345-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(17.00% - 3px);
+  width: 64px;
+}
+.email-renewal-24hr-fol .x0012345-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-24hr-fol .x09092021-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-renewal-24hr-fol .x09092021-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-24hr-fol .x09092022-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: 13px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-renewal-24hr-fol .x09092022-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cerise: rgba(242,49,136,1.0);
+  --desert-storm: rgba(248,248,250,1.0);
+  --endeavour: rgba(0,86,182,1.0);
+  --glacier: rgba(125,176,225,1.0);
+  --gossamer: rgba(9,149,128,1.0);
+  --onyx: rgba(58,58,58,1.0);
+  --royal-blue: rgba(60,111,240,1.0);
+  --white: rgba(255,255,255,1.0);
+}

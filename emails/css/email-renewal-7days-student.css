@@ -1,0 +1,573 @@
+/* screen - email-renewal-7days-student */
+
+.arial-black-black-25px {
+  color: var(--black);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 900;
+}
+.arial-bold-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-16px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-black-24px {
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-bold-onyx-10px {
+  color: var(--onyx);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 700;
+}
+.arial-normal-black-11px {
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 11px;
+}
+.arial-regular-normal-black-10px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-11px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 400;
+}
+.arial-regular-normal-black-12px {
+  color: var(--black);
+  font-family: 'Arial-Regular', Helvetica, Arial, serif;
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 400;
+}
+.email-renewal-7days-student {
+  background-color: var(--white);
+  height: 998px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 600px;
+}
+.email-renewal-7days-student .about-slvm-ip-contact-iPe1yZ {
+  background-color: transparent;
+  height: 53px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 31px;
+  width: 152px;
+}
+.email-renewal-7days-student .body-text-2-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'Arial-Bold', Helvetica, Arial, serif;
+  font-size: 11px;
+  font-style: normal;
+  font-weight: 700;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 468px;
+  width: 317px;
+}
+.email-renewal-7days-student .body-text-3-C61RwL {
+  background-color: transparent;
+  height: 135px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 511px;
+  width: 317px;
+}
+.email-renewal-7days-student .btn-C61RwL {
+  background-color: var(--gossamer);
+  border-radius: 5px;
+  height: 40px;
+  left: 401px;
+  pointer-events: auto;
+  position: absolute;
+  top: 586px;
+  transition: all 0.2s ease;
+  width: 173px;
+}
+.email-renewal-7days-student .btn-C61RwL:hover {
+
+transform: translate(0, -2px);box-shadow: 0px 12px 5px -8px rgba(0,0,0,0.2);
+}
+.email-renewal-7days-student .copyright--t-reserved-iPe1yZ {
+  background-color: transparent;
+  bottom: calc(48.32% - 8px);
+  height: 17px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  width: 218px;
+}
+.email-renewal-7days-student .cta-conv-socials-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: calc(24.17% - 18px);
+  position: absolute;
+  top: calc(38.41% - 6px);
+  width: 75px;
+}
+.email-renewal-7days-student .cv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 34px;
+  height: 51px;
+  position: absolute;
+  right: 38px;
+  width: 159px;
+}
+.email-renewal-7days-student .expiry-date-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 14px;
+  left: 258px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 489px;
+  white-space: nowrap;
+  width: 94px;
+}
+.email-renewal-7days-student .expiry-date-C61RwL::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-renewal-7days-student .follow-us-iPe1yZ {
+  background-color: transparent;
+  height: 16px;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 14px;
+  position: absolute;
+  text-align: left;
+  top: calc(38.72% - 6px);
+  white-space: nowrap;
+  width: 92px;
+}
+.email-renewal-7days-student .footer-C61RwL {
+  background-color: transparent;
+  height: 344px;
+  left: 0px;
+  position: absolute;
+  top: 655px;
+  width: 600px;
+}
+.email-renewal-7days-student .group-64-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/twitter@1x.png);
+  background-size: 100% 100%;
+  height: calc(100.00% - 3px);
+  left: calc(43.10% - 7px);
+  position: absolute;
+  top: 2px;
+  width: 17px;
+}
+.email-renewal-7days-student .group-65-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/instagram-30@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  position: absolute;
+  right: 0px;
+  top: 1px;
+  width: 16px;
+}
+.email-renewal-7days-student .group-67-ZD8x1g {
+  background-color: transparent;
+  background-image: url(../img/facebook-1@1x.png);
+  background-size: 100% 100%;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 8px;
+}
+.email-renewal-7days-student .header-tex-al-welcome-C61RwL {
+  background-color: var(--white);
+  height: 90px;
+  left: 230px;
+  position: absolute;
+  top: 0px;
+  width: 370px;
+}
+.email-renewal-7days-student .hi-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 441px;
+  white-space: nowrap;
+  width: 23px;
+}
+.email-renewal-7days-student .mask-4miwin {
+  background-color: var(--gossamer);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-7days-student .mask-group-49-4miwin {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-7days-student .mask-yhhB41 {
+  background-color: var(--gossamer);
+  height: 100%;
+  left: 0px;
+  mix-blend-mode: multiply;
+  opacity: 0.1;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-7days-student .member-number-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(17.00% - 3px);
+  width: 92px;
+}
+.email-renewal-7days-student .member-since-O4i9ae {
+  background-color: transparent;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-renewal-7days-student .member-type-O4i9ae {
+  background-color: transparent;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  top: calc(40.00% - 7px);
+  width: 92px;
+}
+.email-renewal-7days-student .memberdetails-C61RwL {
+  background-color: var(--desert-storm);
+  border-radius: 5px;
+  box-shadow: 0px 3px 6px rgba(0,0,0,0.161);;
+  height: 117px;
+  left: 401px;
+  position: absolute;
+  top: 440px;
+  width: 173px;
+}
+.email-renewal-7days-student .path-1894-iPe1yZ {
+  background-color: transparent;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-7days-student .path-1895-iPe1yZ {
+  background-color: transparent;
+  bottom: 36.44%;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-7days-student .path-5964-b4HSh9 {
+  background-color: transparent;
+  bottom: calc(47.73% - 4px);
+  height: 9px;
+  left: 16px;
+  position: absolute;
+  width: calc(100.00% - 31px);
+}
+.email-renewal-7days-student .path-5967-iPe1yZ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 1px;
+  left: 1px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-7days-student .rectangle-2-copy-5-iPe1yZ {
+  background-color: var(--white);
+  height: 220px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.email-renewal-7days-student .rectangle-317-iPe1yZ {
+  background-color: var(--white);
+  bottom: 0px;
+  height: 123px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+.email-renewal-7days-student .s-img-4IRuxD {
+  background-color: transparent;
+  height: calc(100.00% - 90px);
+  left: 0px;
+  position: absolute;
+  top: 90px;
+  width: 100%;
+}
+.email-renewal-7days-student .slv-logo-blk-iPe1yZ {
+  background-color: transparent;
+  bottom: 36px;
+  height: 52px;
+  left: 35px;
+  position: absolute;
+  width: 208px;
+}
+.email-renewal-7days-student .slv-logo-wht-T9voTK {
+  background-color: transparent;
+  height: 40px;
+  left: 27px;
+  position: absolute;
+  top: calc(46.00% - 18px);
+  width: 158px;
+}
+.email-renewal-7days-student .slv-logostudent-4IRuxD {
+  background-color: transparent;
+  background-image: url(../img/path-1-1@1x.png);
+  background-size: 100% 100%;
+  height: 90px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 226px;
+}
+.email-renewal-7days-student .span0-8M3McS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-style: normal;
+  font-weight: 900;
+}
+.email-renewal-7days-student .span1-8M3McS {
+  color: rgba(0,0,0,1.0);
+  font-family: 'Arial-Black', Helvetica, Arial, serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 900;
+}
+.email-renewal-7days-student .state-libr-ommunities-iPe1yZ {
+  background-color: transparent;
+  height: 153px;
+  letter-spacing: 0.00px;
+  line-height: 11.5px;
+  position: absolute;
+  right: 34px;
+  text-align: left;
+  top: 33px;
+  width: 267px;
+}
+.email-renewal-7days-student .student-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(40.00% - 7px);
+  width: 64px;
+}
+.email-renewal-7days-student .student-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-7days-student .student-header-C61RwL {
+  background-color: transparent;
+  height: 411px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 600px;
+}
+.email-renewal-7days-student .student-img-g6CNxO {
+  background-color: transparent;
+  height: 146.73%;
+  left: -3.67%;
+  position: absolute;
+  top: -30.53%;
+  width: 106.67%;
+}
+.email-renewal-7days-student .student-me-wal-notice-MBQHjy {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Arial", Helvetica, Arial, serif;
+  font-size: 25px;
+  height: calc(100.00% - 21px);
+  left: 22px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  position: absolute;
+  text-align: right;
+  top: 12px;
+  white-space: nowrap;
+  width: calc(100.00% - 41px);
+}
+.email-renewal-7days-student .valid-to-O4i9ae {
+  background-color: transparent;
+  bottom: 13px;
+  height: 17px;
+  left: 10px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  position: absolute;
+  text-align: left;
+  width: 92px;
+}
+.email-renewal-7days-student .x-name-C61RwL {
+  background-color: transparent;
+  border: 0;
+  height: 19px;
+  left: 56px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 441px;
+  white-space: nowrap;
+  width: 296px;
+}
+.email-renewal-7days-student .x-name-C61RwL::placeholder {
+  color: rgba(0,0,0,0.6);
+}
+.email-renewal-7days-student .x0012345-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  top: calc(17.00% - 3px);
+  width: 64px;
+}
+.email-renewal-7days-student .x0012345-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-7days-student .x09092021-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(36.00% - 6px);
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-renewal-7days-student .x09092021-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-7days-student .x09092022-O4i9ae {
+  background-color: transparent;
+  border: 0;
+  bottom: 13px;
+  height: 17px;
+  letter-spacing: 0.00px;
+  line-height: 12px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  right: 9px;
+  text-align: right;
+  width: 64px;
+}
+.email-renewal-7days-student .x09092022-O4i9ae::placeholder {
+  color: rgba(58,58,58,0.6);
+}
+.email-renewal-7days-student .your-stude--expire-on-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 35px;
+  letter-spacing: 0.00px;
+  line-height: 13px;
+  position: absolute;
+  text-align: left;
+  top: 489px;
+  white-space: nowrap;
+  width: 223px;
+}
+:root {
+  --black: rgba(0,0,0,1.0);
+  --cerise: rgba(242,49,136,1.0);
+  --desert-storm: rgba(248,248,250,1.0);
+  --endeavour: rgba(0,86,182,1.0);
+  --glacier: rgba(125,176,225,1.0);
+  --gossamer: rgba(9,149,128,1.0);
+  --onyx: rgba(58,58,58,1.0);
+  --royal-blue: rgba(60,111,240,1.0);
+  --white: rgba(255,255,255,1.0);
+}
